@@ -15,3 +15,5 @@ follow steps below to create new project
 4. click create
 5. add 'subFuntion' to project path by right click -> project path -> add to the prject path (including Subfolders)
 
+reference:
+2020 Effective Disturbance Compensation Method Under Control Saturation in Discrete-Time Sliding Mode Control.
