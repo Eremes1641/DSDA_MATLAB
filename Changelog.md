@@ -4,7 +4,7 @@ DSDA changelog
 v1.0.1 Date: 2024/06/08, Developer: Hóng Jyùn Yaò
 ---------------------------------------------------
 ### Added
-- More comment in code
+- More comments in code
 - `main without project` folder for running file directly
 
 ### Changed
